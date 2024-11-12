@@ -13,17 +13,6 @@ This is a monorepo project containing a SvelteKit frontend and Express.js backen
 - [x] Error handling and offline support
 - [x] Performance optimization (debounced search, efficient updates)
 
-## Documentation
-
-The `docs` folder contains comprehensive documentation:
-
-- `Technical Design Documentation.md` - System architecture and technical specifications
-- `Use Cases.md` - Detailed user scenarios and interactions
-- `Testing.md` - Testing strategy and scenarios
-- `SSR.md` - Server-side rendering implementation details
-- `Code Review.md` - Code review guidelines and standards
-- `Index.md` - Documentation overview and navigation
-
 ## Requirements
 
 - [Bun](https://bun.sh/) - JavaScript runtime and package manager
