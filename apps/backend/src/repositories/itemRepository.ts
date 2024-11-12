@@ -8,7 +8,7 @@ export class ItemRepository {
 
   constructor() {
     // Initialize with sample data
-    const sampleItems: Item[] = Array.from({ length: 50 }, (_, i) => ({
+    const sampleItems: Item[] = Array.from({ length: 100000 }, (_, i) => ({
       id: `item-${i + 1}`,
       label: `Item ${i + 1}`,
       value: i + 1,
